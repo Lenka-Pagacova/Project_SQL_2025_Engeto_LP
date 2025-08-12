@@ -24,11 +24,10 @@ SELECT
 	year,
 	round(avg(product_price_change) * 100, 2) AS product_price_percentage_change, -- Přepočet na %
 	round(avg(wage_change) * 100, 2) AS wage_percentage_change, -- Přepočet na %
-	round(avg(wage_change * 1.1) * 100, 2) AS wage_increased_by_10, -- Navýšení mzdy o 10 % v %
 	CASE
-		WHEN round(avg(product_price_change) * 100, 2) > round(avg(wage_change * 1.1) * 100, 2) THEN 'Nárůst cen potravin je vyšší než růst mezd'
-		ELSE 'Ceny potravin nejsou vyšší než mzdy'
-	END AS product_vs_wages
+		WHEN round(avg(product_price_change) * 100) > round(avg(wage_change) * 100 + 10) THEN 'Ano, nárůst cen potravin je vyšší než nárůst mezd'
+		ELSE 'Ne, nárůst cen není vyšší než nárůst mezd'
+	END AS result
 FROM 
 	product_wage_changes
 WHERE
@@ -38,6 +37,4 @@ GROUP BY
 	year
 ORDER BY 
 	year;
-
-
 
