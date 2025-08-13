@@ -10,7 +10,7 @@
 
 ## Otázka č. 2 - Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
   Při průměrné ceně produktu (za kilo / litr) a průměrnému platu je možné si zakoupit **1 257 kg chleba a 1 404 litrů mléka** za první sledované období (rok 2006).
-  Za poslední sledované období (rok 2018) je možné si zakoupit **1 317 kg chleba a 1 611 litrů mléka** při průměrných cenách a platech
+Za poslední sledované období (rok 2018) je možné si zakoupit **1 317 kg chleba a 1 611 litrů mléka** při průměrných cenách a platech
 
 ## Otázka č. 3 - Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuálně meziroční nárůst)?
   	Dle výsledků nejpomaleji zdražuje kategorie: **Jakostní víno bílé, ALE** tato jediná kategorie má začátek šetření až od roku **2015-2018**, tudíž se bralo zdražování pouze za 3 roky oproti ostatním kteří mají měření od 2006-2018.
@@ -20,5 +20,12 @@
   Ne takový rok neexistuje, z analýzy vyplývá, že nastala situace, kdy **nárůst cen potravin NEBYL vyšší než nárůst mezd**. Nejvyšší rozdíl mezi mzdou a cenou potravin, kdy cena potravin byla výrazně vyšší nastala v roce 2012, kdy byla cena potravin vyšší o 4,36 %.
 
 ## Otázka č. 5 - Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mezd ve stejném nebo následujícím roce výraznějším růstem?
-  
+  Podle výsledků se nedá jednoznačně potvrdit vztah HDP, mezd a cen potravin, jelikož:
+  - V roce 2007 vzrostlo HDP o 3,5 %, zatímco mzdy vzrostly ve stejném roce o 6,82 % a v následujícím roce (2008) o působivých 8,05 %. Ceny vrostly v roce 2007 o 6,74 % a     v následujícím roce o 6,19 %. To naznačuje pozitivní souvislost.
+  - V roce 2008 i přes růst HDP o 0,98 % byl růst mezd stále 8,05 % a u cen 6,19 %. To naznačuje, že růst mezd i cen potravin ovlivňovaly i další faktory (např. inflace,      státní ekonomika. daně, clo z dovozu apod.)
+  - V roce 2009 následoval po výrazném poklesu HDP o -4,49 % v roce 2010 mírný nárůst mezd o 2 %. Jedná se o zajímavou výjimku, protože by se po prudkém poklesu HDP dalo      očekávat pokles mezd.
+  - Mezi lety 2012-2015 bylo HDP stabilní nebo rostoucí, zatímco ceny potravin kolísaly, dokonce se u nich vyskytl pokles o -0,54 %
+
+  Na základě tohoto šetření vyplývá že na mzdy a ceny potravin nemá vliv pouze HDP samotné ale i jiné makroekonomické faktory.
+
   
